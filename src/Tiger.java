@@ -1,6 +1,6 @@
 public class Tiger {
-    String favoriteFood="meat";
-    String tigerName;
+    public String favoriteFood="meat";
+    public String tigerName;
 
 
     public Tiger(String name) {
