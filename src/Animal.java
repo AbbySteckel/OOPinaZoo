@@ -8,7 +8,7 @@ public class Animal {
     }
 
     public void sleep(){
-        System.out.print(this.name + " sleeps for 5 hours. ");
+        System.out.print(this.name + " sleeps for 8 hours. ");
     }
 
     public void eat(String food){
